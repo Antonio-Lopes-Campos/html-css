@@ -11,7 +11,8 @@ html, body {
     background-color: #233eff;
 }
 h1{
-    color: white;
+    text-align: center;
+    color: red;
     text-shadow: 4px 4px 0px #080e3b;
     padding: 10px;
 }
